@@ -2,7 +2,7 @@
 Human Computer Interaction - Homework 1: The Elevator Interface
 
 ![](InternalInterface-Arrow.jpg)
-![](InternalInterface.jpg)
+![](InternalInterface-3.jpg)
 ![](ApartmentElevator.gif)
 
 **Basic Issues with the Elevator**
