@@ -68,4 +68,12 @@ Figure 4: Redesigned interface sketch with improvements.
 
 ![](hw1.8.Green.gif)
 
-
+**Demo Instructions**
+- Able to go up (4th floor button)
+- Able to go down (1st floor button) 
+- Able to use handicap arrows (press arrows)
+- Able to go into maintenance (click maintenance tab)
+- Able to enter pin and access maintenance screen (click enter and turn something on and off)
+- Able to go into the emergency tab (click '!' tab)
+- Able to enable/disable alarm and call for help (activate both buttons and deactivate both buttons)
+- Able to click back to the floors tab (click floors tab)
