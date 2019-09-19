@@ -66,5 +66,6 @@ Figure 4: Redesigned interface sketch with improvements.
 - This demo provides the UI screen, while also including the metal panel that will hold the handicap accessible buttons. 
 [Demo](https://xd.adobe.com/view/e273f821-5a53-4d83-7a10-43ccff9e5c4c-9442/?fullscreen)
 
+![](hw1.8.Green.gif)
 
 
